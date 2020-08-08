@@ -927,3 +927,4 @@ August 3, 2015
 
 Testing git
 Testing git 2
+Testing git 3
