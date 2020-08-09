@@ -27,6 +27,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
@@ -46,6 +47,7 @@ import org.firstinspires.ftc.robotcore.external.Telemetry;
  * to the driver station.
  *
  * @see Telemetry
+ * but like it was modified to work temporarily so i could have code to run quickly
  */
 @TeleOp(name = "Concept: Telemetry", group = "Concept")
 @Disabled
